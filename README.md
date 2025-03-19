@@ -28,7 +28,7 @@ Esta es una plantilla basada en los estándares de la Guía de publicacion de he
 ---
 Es común en muchos repositorios open source el uso de badges o escudos para dar visbilidad el uso de microservicios, licencias, descargas, etc. Recomendamos revisar la iniciativa https://shields.io/ donde según consideres necesario podrás generar badges para tu repo. 
 
-### Ejemplos de badges
+### los 40 comandos mas usados de Linux
 
 - code coverage percentage: ![coverage](https://img.shields.io/badge/coverage-80%25-yellowgreen)
 - stable release version: ![version](https://img.shields.io/badge/version-1.2.3-blue)
