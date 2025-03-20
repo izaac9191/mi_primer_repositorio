@@ -30,31 +30,22 @@ Es común en muchos repositorios open source el uso de badges o escudos para dar
 
 ### los 40 comandos mas usados de Linux
 
-- code coverage percentage: ![coverage](https://img.shields.io/badge/coverage-80%25-yellowgreen)
-- stable release version: ![version](https://img.shields.io/badge/version-1.2.3-blue)
-- package manager release: ![gem](https://img.shields.io/badge/gem-2.2.0-blue)
-- status of third-party dependencies: ![dependencies](https://img.shields.io/badge/dependencies-out%20of%20date-orange)
-- static code analysis grade: ![codacy](https://img.shields.io/badge/codacy-B-green)
-- [SemVer](https://semver.org/) version observance: ![semver](https://img.shields.io/badge/semver-2.0.0-blue)
-- amount of [Liberapay](https://liberapay.com/) donations per week: ![receives](https://img.shields.io/badge/receives-2.00%20USD%2Fweek-yellow)
-- Python package downloads: ![downloads](https://img.shields.io/badge/downloads-13k%2Fmonth-brightgreen)
-- Chrome Web Store extension rating: ![rating](https://img.shields.io/badge/rating-★★★★☆-brightgreen)
-- [Uptime Robot](https://uptimerobot.com) percentage: ![uptime](https://img.shields.io/badge/uptime-100%25-brightgreen)
+Veamos los comandos básicos de Linux más usados y sus ejemplos para la administración del sistema.
 
-### Badges que solicitamos:
----
-En la iniciativa Código para el Desarrollo solicitamos a los equipos que suman sus herramientas al catálogo de sumar el badge generado por el uso del microservicio de evaluación estática de código SonarCloud.
+### Comando ls:
+--- rpotsvr:/# ls /directory/folder/path
+file1.txt
 
-El badge se ve así y redirige al reporte de evaluación estática del último commit de la herramienta:
+Si eliminas la ruta, el comando ls mostrará el contenido del directorio de trabajo actual. Puedes modificar el comando utilizando estas opciones:
 
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=EL-BID_Plantilla-de-repositorio&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=EL-BID_Plantilla-de-repositorio)
+-R: Lista todos los archivos de los subdirectorios.
+-a: Muestra todos los archivos, incluidos los ocultos.
+-lh: convierte los tamaños a formatos legibles, como MB, GB y TB.
 
 
-## Descripción y contexto
----
-Esto es un archivo README. Debe contener la documentación de soporte uso de la herramienta digital. Las siguientes secciones son las secciones recomendadas que debes poner incluir en cualquier herramienta digital. Puedes descargar este archivo para que te sirva como plantilla.
+## Comando cd
+--- 
 
-Asegúrate de empezar este archivo con una breve descripción sobre las funcionalidades y contexto de la herramienta digital. Sé conciso y al grano.
 
 ## Guía de usuario
 ---
